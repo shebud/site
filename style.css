@@ -1,0 +1,38 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: aquamarine;
+padding:10px ;
+border:5px solid aquamarine;
+border-radius:7% ;
+}
+h1{
+    color :blueviolet;
+    text-align: center;
+}
+footer{
+    background-color: burlywood;
+    border:10px solid burlywood;
+}
+footer p{
+    background-color:white ;
+}
+nav a {
+    margin: 20px;    
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+    border: 3px solid navy;
+    border-radius: 10px;
+    background-color: navy;
+}
+nav {
+    margin-top:15px ;
+}
+ {
+ background-color  :springgreen ;
+}
+h2 {
+    h2 discount 
+}
